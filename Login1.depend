@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697065193 source:d:\projects\login1\login.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
